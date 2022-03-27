@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09a93388-a137-42ef-a9f6-b95a125e224f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/fdsfs.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-details-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-details-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-details-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/bg.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,17 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="702" column="1" lean-forward="true" selection-start-line="702" selection-start-column="1" selection-end-line="702" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1597">
-              <caret line="192" column="40" selection-start-line="192" selection-start-column="40" selection-end-line="192" selection-end-column="40" />
+            <state relative-caret-position="298">
+              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -64,8 +41,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+            <state relative-caret-position="192">
+              <caret line="241" column="17" selection-start-line="241" selection-start-column="17" selection-end-line="241" selection-end-column="17" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -78,7 +55,6 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>services</find>
-      <find>about</find>
       <find>portfolio-1</find>
       <find>portfolio-details</find>
       <find>first</find>
@@ -86,6 +62,7 @@
       <find>resume</find>
       <find>port</find>
       <find>bg</find>
+      <find>about</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -103,7 +80,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="-10" />
     <option name="width" value="1380" />
     <option name="height" value="745" />
@@ -114,7 +91,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,31 +113,40 @@
               <item name="Personal" type="b2602c69:ProjectViewProjectNode" />
               <item name="Personal" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Personal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Personal" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Personal" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Personal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Personal" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Personal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Personal" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Personal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Personal" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/portfolio" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -204,16 +189,19 @@
       <updated>1648100539055</updated>
       <workItem from="1648100540233" duration="12381000" />
       <workItem from="1648189142773" duration="5564000" />
+      <workItem from="1648349968200" duration="3255000" />
+      <workItem from="1648388439744" duration="1324000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17945000" />
+    <option name="totallyTimeSpent" value="22524000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="830" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25472972" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1858108" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -243,16 +231,16 @@
     <entry file="file://$PROJECT_DIR$/changelog.txt" />
     <entry file="file://$PROJECT_DIR$/assets/img/portfolio/portfolio-1.jpg" />
     <entry file="file://$PROJECT_DIR$/assets/img/portfolio/portfolio-2.jpg" />
-    <entry file="file://$PROJECT_DIR$/assets/img/portfolio/portfolio-details-1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/portfolio/portfolio-details-2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/portfolio/portfolio-details-3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/portfolio/portfolio-details-1.jpg" />
+    <entry file="file://$PROJECT_DIR$/assets/img/portfolio/portfolio-details-2.jpg" />
+    <entry file="file://$PROJECT_DIR$/assets/img/portfolio/portfolio-details-3.jpg" />
     <entry file="file://$PROJECT_DIR$/portfolio-details.html" />
+    <entry file="file://$PROJECT_DIR$/assets/img/favicon.ico" />
+    <entry file="file://$PROJECT_DIR$/assets/img/fdsfs.jpg" />
+    <entry file="file://$PROJECT_DIR$/assets/img/apple-touch-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/bg.jpg" />
     <entry file="file://$PROJECT_DIR$/Readme.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="31">
@@ -260,39 +248,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1597">
-          <caret line="192" column="40" selection-start-line="192" selection-start-column="40" selection-end-line="192" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/fdsfs.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/apple-touch-icon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/bg.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/img/portfolio/portfolio-1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        <state relative-caret-position="192">
+          <caret line="241" column="17" selection-start-line="241" selection-start-column="17" selection-end-line="241" selection-end-column="17" />
           <folding>
             <element signature="n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="192" column="40" selection-start-line="192" selection-start-column="40" selection-end-line="192" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/vendor/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="58" column="14" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="702" column="1" lean-forward="true" selection-start-line="702" selection-start-column="1" selection-end-line="702" selection-end-column="1" />
+        <state relative-caret-position="298">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
         </state>
       </provider>
     </entry>
